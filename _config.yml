@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
+title: 윤성의 개발 블로그
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://sbdyzjdla.github.io
-avatar: /avatar.jpeg
+avatar: /profile.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -29,7 +29,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: vszhu휴
   card: summary
 logo: logo.png
 social:
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: yoonsung
+  url: https://github.com/sbdyzjdla/
+  email: sbdyzjdla@gmail.com
